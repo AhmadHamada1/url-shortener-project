@@ -1,10 +1,12 @@
 # url-shortener-project
 Serverless URL Shortener with Click Analytics
+ # A Recorded video demonstrating the deployed solution :
+https://drive.google.com/drive/folders/1vyt-YTwuDNBvcfJoVCl5OlisZ30Bb22r?usp=sharing
 
-Project Description:
+# Project Description:
 A fully serverless URL shortener built with AWS Lambda, API Gateway, DynamoDB, and S3. It allows users to generate shortened links and track click activity with logs.
 
-Key Features:
+# Key Features:
 ✅ Shorten any valid URL
 
 📊 Tracks number of clicks
@@ -15,7 +17,7 @@ Key Features:
 
 🔐 Fully serverless and scalable with IAM-based security
 
-AWS Services Used:
+# AWS Services Used:
 Service	Purpose
 Lambda	Backend logic
 API Gateway	Expose RESTful endpoints
@@ -25,8 +27,6 @@ IAM	Grant least-privilege access
 CloudWatch	Log monitoring for Lambdas
 
 Lambda Code:
-You already shared the working code for:
-
 ShortURLDB (shorten URL):
 Validates input
 
