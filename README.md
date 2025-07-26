@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Jul 26, 2025, 10_24_57 AM" src="https://github.com/user-attachments/assets/5c332807-6ec6-4eb4-8002-4214417a6388" /><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e027212f-aeee-40d4-807f-6c0c1003dade" /># url-shortener-project
+# url-shortener-project
 Serverless URL Shortener with Click Analytics
  # A Recorded video demonstrating the deployed solution :
 https://drive.google.com/drive/folders/1vyt-YTwuDNBvcfJoVCl5OlisZ30Bb22r?usp=sharing
